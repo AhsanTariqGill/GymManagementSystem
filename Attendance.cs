@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
-
+// Attendance page to handle the students presence.
 namespace GYMSYS
 {
     public partial class Attendance : MetroFramework.Forms.MetroForm
