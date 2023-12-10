@@ -64,7 +64,7 @@ namespace GYMSYS
             }
 
         }
-
+# Code to handle delete operation
         private void DeleteEquipment_Load(object sender, EventArgs e)
         {
             SqlConnection con = new SqlConnection();
