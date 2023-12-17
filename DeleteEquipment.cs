@@ -6,6 +6,8 @@ using System.Data.SqlClient;
 using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
+// you can delete all equipments in this file by using this
+
 
 namespace GYMSYS
 {
